@@ -2,9 +2,7 @@ apiVersion: v1
 data:
   images.json: |-
     [
-      "https://i.imgflip.com/7jqevq.jpg",
-      "https://i.imgflip.com/7jqekl.jpg",
-      "https://i.imgflip.com/7jmwjs.jpg"
+      "https://q5n8c8q9.rocketcdn.me/wp-content/uploads/2022/04/img_624d8245533d8.jpg"
     ]
 kind: ConfigMap
 metadata:
